@@ -10,6 +10,5 @@ Public code here is extracted from that work and rewritten as standalone librari
   signing, DNS-rebinding-safe SSRF guard, AES-GCM secret protection, resilient delivery. .NET 8/10, AOT-clean.
 - [invoice-extraction-evals](https://github.com/NikitaFlimakov/invoice-extraction-evals) — eval harness for
   LLM invoice extraction: golden set, field metrics, calibrated LLM judge, bootstrap CIs, CI regression gate.
-- [opensoft/dartwing-gateway](https://github.com/opensoft/dartwing-gateway) — API gateway I built at work (public).
 
 Contact: flimakov@gmail.com
